@@ -28,7 +28,6 @@ The performance of both models on the same test set is as follows:
   - mAP: Ranges between 0.4 – 0.7
     ![YOLOv8 Model](yolo_v8.png "YOLOv8 Model performance")
 
----
 
 ## Conclusion
 
