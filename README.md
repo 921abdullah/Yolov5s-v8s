@@ -26,6 +26,7 @@ The performance of both models on the same test set is as follows:
 - **YOLOv8**:
   - Precision and Recall: Approximately 0.5 – 0.7  
   - mAP: Ranges between 0.4 – 0.7
+    
     ![YOLOv8 Model](yolo_v8.png "YOLOv8 Model performance")
 
 
