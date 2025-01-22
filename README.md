@@ -20,11 +20,13 @@ The performance of both models on the same test set is as follows:
 
 - **YOLOv5**:
   - Precision and Recall: Approximately 0.5 – 0.6  
-  - mAP (mean Average Precision) and mAP50-95: Ranges between 0.3 – 0.6  
+  - mAP (mean Average Precision) and mAP50-95: Ranges between 0.3 – 0.6
+  - ![YOLOv5 Model](yolo_v5.png "YOLOv5 Model performance")
 
 - **YOLOv8**:
   - Precision and Recall: Approximately 0.5 – 0.7  
-  - mAP: Ranges between 0.4 – 0.7  
+  - mAP: Ranges between 0.4 – 0.7
+  - ![YOLOv8 Model](yolo_v8.png "YOLOv8 Model performance")
 
 ---
 
